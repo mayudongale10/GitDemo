@@ -24,5 +24,5 @@ public class Checkbox {
 		System.out.println("No of checkboxes " + driver.findElements(By.cssSelector("input[type='checkbox']")).size());//here findelements is used as all checkbox are to be returned as per css selector
 		
 	}
-
+//me here
 }
